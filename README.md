@@ -2,11 +2,11 @@
 After graduating from Loughborough University with a degree in Electronic and Computer systems engineering, I have decided to pursue a career in DevOps after having an introduction with my final year project. I am currently at Sparta Global, training to become a DevOps consultant!
 
 ## Find me elsewhere
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/monotiller/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/monotiller/) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/monotiller/) [![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/monotiller/)
 
 Here's some things I know and do:
 ## Operating Systems I use
-[![macOS](https://img.shields.io/badge/-macOS-FFF?style=flat&logo=macOS&logoColor=black)](https://www.apple.com/macos/) [![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat&logo=CentOS&logoColor=white)](http://centos.org) [![Windows](https://img.shields.io/badge/-Windows-0078d4?style=flat&logo=Windows&logoColor=white)](https://www.windows.com)
+[![macOS](https://img.shields.io/badge/-macOS-FFF?style=flat&logo=macOS&logoColor=black)](https://www.apple.com/macos/) [![Ubuntu](https://img.shields.io/badge/-Ubuntu-dd4814?style=flat&logo=Ubuntu&logoColor=white)](https://ubuntu.com/) [![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat&logo=CentOS&logoColor=white)](http://centos.org) [![Windows](https://img.shields.io/badge/-Windows-0078d4?style=flat&logo=Windows&logoColor=white)](https://www.windows.com)
 
 ## Languages I know
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) [![C](https://img.shields.io/badge/-C-a8b9cc?style=flat&logo=c&logoColor=black)](https://www.iso.org/standard/74528.html) [![C++](https://img.shields.io/badge/-C++-073259?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) [![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat&logo=swift&logoColor=white)](https://swift.org/) [![VHDL](https://img.shields.io/badge/-VHDL-000?style=flat&logo=vhdl&logoColor=white)](http://www.eda-twiki.org/cgi-bin/view.cgi/P1076/WebHome) ![ARM Assembly](https://img.shields.io/badge/-ARM%20Assembly-0091bd?style=flat&logo=arm&logoColor=white) [![MATLAB](https://img.shields.io/badge/-MATLAB-0076a8?style=flat&logo=MATLAB&logoColor=white)](https://mathworks.com/products/matlab.html)
