@@ -1,6 +1,9 @@
 # Hi, I'm a Junior DevOps Consultant
 After graduating from Loughborough University with a degree in Electronic and Computer systems engineering, I have decided to pursue a career in DevOps after having an introduction with my final year project. I am currently at Sparta Global, training to become a DevOps consultant!
 
+## Find me elsewhere
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/monotiller/)
+
 Here's some things I know and do:
 ## Operating Systems I use
 [![macOS](https://img.shields.io/badge/-macOS-FFF?style=flat&logo=macOS&logoColor=black)](https://www.apple.com/macos/) [![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat&logo=CentOS&logoColor=white)](http://centos.org) [![Windows](https://img.shields.io/badge/-Windows-0078d4?style=flat&logo=Windows&logoColor=white)](https://www.windows.com)
