@@ -15,13 +15,13 @@ Here's some things I know and do:
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=flat&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/) [![PyCharm](https://img.shields.io/badge/-PyCharm-fcf84a?style=flat&logo=PyCharm&logoColor=black)](https://www.jetbrains.com/pycharm/) [![Vim](https://img.shields.io/badge/-Vim-007f00?style=flat&logo=vim&logoColor=white)](https://www.vim.org/)
 
 ## Technologies I use
-[![Jenkins](https://img.shields.io/badge/-Jenkins-ce3631?style=flat&logo=Jenkins&logoColor=white)](https://www.jenkins.io/) [![Git](https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=white)](https://www.git-scm.com/)
+[![Jenkins](https://img.shields.io/badge/-Jenkins-ce3631?style=flat&logo=Jenkins&logoColor=white)](https://www.jenkins.io/) [![Git](https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=white)](https://www.git-scm.com/) [![Git](https://img.shields.io/badge/-Vagrant-104eb2?style=flat&logo=vagrant&logoColor=white)](https://www.vagrantup.com/)
 
 ## Cloud technologies I have used
 [![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/) [![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-008AD7?style=flat&logo=Microsoft%20Azure&logoColor=white)](https://azure.microsoft.com/) [![Apple CloudKit](https://img.shields.io/badge/-Apple%20CloudKit-0070C9?style=flat&logo=iCloud&logoColor=white)](https://developer.apple.com/icloud/cloudkit/)
 
 ## Database technologies I have used
-[![MYSQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=MySQL&logoColor=white)](https://www.mysql.com/)
+[![MYSQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=MySQL&logoColor=white)](https://www.mysql.com/) [![MYSQL](https://img.shields.io/badge/-SQLite-0482c4?style=flat&logo=SQLite&logoColor=white)](https://sqlite.org/)
 
 This document is always being updated and will develop as my skills as a DevOps engineer progress! I hope to see you soon!
 
