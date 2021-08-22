@@ -25,4 +25,4 @@ Here's some things I know and do:
 
 This document is always being updated and will develop as my skills as a DevOps engineer progress! I hope to see you soon!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monotiller&hide=TeX&layout=compact)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=monotiller&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monotiller&hide=TeX&layout=compact)
