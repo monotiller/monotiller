@@ -2,7 +2,7 @@
 After graduating from Loughborough University with a degree in Electronic and Computer systems engineering, I have decided to pursue a career in DevOps after having an introduction with my final year project. I am currently at Sparta Global, training to become a DevOps consultant!
 
 ## Find me elsewhere
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/monotiller/) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/monotiller/) [![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/monotiller/) [![DEV Community](https://img.shields.io/badge/-DEV%20Community-000?style=flat&logo=dev.to&logoColor=white)](https://dev.to/monotiller)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/monotiller/) [![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/monotiller/) [![DEV Community](https://img.shields.io/badge/-DEV%20Community-000?style=flat&logo=dev.to&logoColor=white)](https://dev.to/monotiller)
 
 Here's some things I know and do:
 ## Operating Systems I use
